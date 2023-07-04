@@ -360,5 +360,19 @@ Grandes Telas: acima de 1200px; */
      }
       
    }
+
+   @media (max-width: 400px) {
+      .home__img img{
+         width: 50%;
+         margin: auto;
+         display: block;
+         margin-top: 30px;
+      }
+
+
+      .servicos__tituloPrincipal {
+         height: 200px;
+      }
+   }
      
   
