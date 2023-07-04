@@ -363,7 +363,7 @@ Grandes Telas: acima de 1200px; */
 
    @media (max-width: 400px) {
       .home__img img{
-         width: 50%;
+         width: 20%;
          margin: auto;
          display: block;
          margin-top: 30px;
